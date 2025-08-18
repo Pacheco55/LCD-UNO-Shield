@@ -1,4 +1,4 @@
-# RUN TECATILLO RUN - Microcontroller Edition
+<img width="526" height="377" alt="Image" src="https://github.com/user-attachments/assets/194b5189-9bf4-4be6-ae5c-4f5dd12d4bfd" />
 
 ![Arduino](https://img.shields.io/badge/Arduino-UNO-blue)
 ![Game](https://img.shields.io/badge/Type-Endless%20Runner-green)
@@ -7,21 +7,29 @@
 
 **Port para microcontroladores del endless runner desarrollado originalmente en Godot Engine**
 
+<img src="https://github.com/user-attachments/assets/0c8eaad0-cfe1-4784-8e4d-e96012da7df9" width="480" alt="Image" />
 ---
 
 ## **Funcionalidad**
 
+<img src="https://github.com/user-attachments/assets/88e47626-dfd3-4558-b8d4-040136e47cf6" width="480" alt="Image" />
+
+
 **Endless Runner**
 El personaje corre automáticamente y debe saltar obstáculos generados proceduralmente en fila superior e inferior.
+
 
 **Sistema de Puntuación**
 Puntuación por distancia recorrida con velocidad variable y progresión de dificultad.
 
+
 **Controles Adaptados**
 Gameplay completo adaptado para LCD Keypad Shield con pausa, aceleración y sprites animados.
 
+
 **Generación Procedural**
 Terreno y obstáculos aleatorios optimizados para memoria limitada de microcontroladores.
+
 
 ---
 
@@ -31,6 +39,9 @@ Terreno y obstáculos aleatorios optimizados para memoria limitada de microcontr
 Arduino UNO/Nano, LCD Keypad Shield 16x2 con botones analógicos, conexión USB
 
 ### **Conexiones LCD Keypad Shield**
+
+<img src="https://github.com/user-attachments/assets/f5a30ca3-01c5-4928-a889-6bf519ba9fe7" width="400" alt="Image" />
+
 ```
 LCD: Pines 8,9,4,5,6,7 (estándar)
 Botones: Pin analógico A0
@@ -55,6 +66,9 @@ Optimizado para plataformas con 2KB RAM
 ---
 
 ## **Características Técnicas**
+
+<img src="https://github.com/user-attachments/assets/47855a41-d445-45a0-b05e-6bba43ad0830" width="480" alt="GIF 3" />
+
 
 **Sprites Personalizados**
 7 sprites únicos para personaje, obstáculos y terreno con animaciones fluidas.
