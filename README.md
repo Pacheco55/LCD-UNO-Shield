@@ -1,5 +1,9 @@
-# Colección de Proyectos LCD Display Shield - PIXELBITS Studios
+## Colección de Proyectos LCD Display Shield de PIXELBITS Studios
 
+<img width="450" height="370" alt="Image" src="https://github.com/user-attachments/assets/71434314-0ead-4f42-96c7-732292b8c84e" />
+
+
+---
 ![Arduino](https://img.shields.io/badge/Arduino-UNO-blue)
 ![LCD](https://img.shields.io/badge/Hardware-LCD%20Display%20Shield-green)
 ![Projects](https://img.shields.io/badge/Projects-4+-orange)
@@ -30,9 +34,14 @@ Esta es una colección viva. Regularmente agregamos nuevos proyectos basados en 
 ## **Hardware Necesario**
 
 ### **Componentes Básicos**
+
 **Arduino UNO R3**: El microcontrolador más popular y accesible del mercado.
 
+<img width="450" height="370" alt="Image" src="https://github.com/user-attachments/assets/10e20742-980e-49d3-b89f-64fa9d1d8252" />
+
 **LCD Display Shield**: Shield estándar 16x2 con 6 botones integrados (disponible como "LCD Keypad Shield D1 Robot").
+
+<img width="263" height="189" alt="Image" src="https://github.com/user-attachments/assets/5695c18a-def6-4ae6-b4a0-eb9c05ebce99" />
 
 ### **¿Dónde Conseguir el Hardware?**
 
